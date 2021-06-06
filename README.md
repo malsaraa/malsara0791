@@ -50,3 +50,7 @@
 * [Thermal and Energy-Aware Utilization Management on MPSoC Architectures](https://www.researchgate.net/publication/336034637_Thermal-Constrained_Energy-Aware_Load_Management_on_MPSoC_Architectures)
   
 </h6>
+
+------------
+
+<p align="right"><sub> Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> </sub></p>
