@@ -37,7 +37,7 @@
 <h3><img src="https://github.com/malsara0791/malsara0791/blob/main/assets/021-test.png" width="50" /> Publications </h3>
 
 <h6>
-* [Thermal and Energy-Aware Utilization Management on MPSoC Architectures]
+
   
 * [Cost-Effective, Re-Configurable Cluster Approach for Resource Constricted FPGA Based Machine Learning and AI Applications](https://www.researchgate.net/publication/339912814_Cost-Effective_Re-Configurable_Cluster_Approach_for_Resource_Constricted_FPGA_Based_Machine_Learning_and_AI_Applications)
 
@@ -46,5 +46,7 @@
 * [Energy Efficient Scheduling with Task Migration on MPSoC Architectures](https://www.researchgate.net/publication/333992806_Energy_Efficient_Scheduling_with_Task_Migration_on_MPSoC_Architectures)
   
 * [Task Allocation, Migration and Scheduling for Energy-Efficient Real-Time Multiprocessor Architectures](https://www.researchgate.net/publication/333725050_Task_Allocation_Migration_and_Scheduling_for_Energy-Efficient_Real-Time_Multiprocessor_Architectures)
+  
+* [Thermal and Energy-Aware Utilization Management on MPSoC Architectures](https://www.researchgate.net/publication/336034637_Thermal-Constrained_Energy-Aware_Load_Management_on_MPSoC_Architectures)
   
 </h6>
