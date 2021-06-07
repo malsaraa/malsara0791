@@ -5,8 +5,8 @@
        src="https://img.shields.io/badge/-ResearchGate-Green?logo=ResearchGate&logoColor=white&style=for-the-badge" />
 </a>
 
-<a href="https://www.researchgate.net/profile/Dulana_Rupanetti">
-  <img alt="Dulana's ResearchGate"  
+<a href="https://www.linkedin.com/in/dulanar/">
+  <img alt="Dulana's Linkedin"  
        src="https://img.shields.io/badge/-LinkedIn-61DAFB?logo=LinkedIn&logoColor=white&style=for-the-badge" />
 </a>
 <br><br>
