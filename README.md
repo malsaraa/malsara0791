@@ -40,6 +40,9 @@
 
 <h6>
   
+* [Energy-Aware Task Migration Through Ant-Colony Optimization for Multiprocessors](https://www.researchgate.net/publication/356785168_Energy-Aware_Task_Migration_Through_Ant-Colony_Optimization_for_Multiprocessors)
+
+  
 * [Cost-Effective, Re-Configurable Cluster Approach for Resource Constricted FPGA Based Machine Learning and AI Applications](https://www.researchgate.net/publication/339912814_Cost-Effective_Re-Configurable_Cluster_Approach_for_Resource_Constricted_FPGA_Based_Machine_Learning_and_AI_Applications)
 
 * [Thermal-Constrained, Energy-Aware Load Management on MPSoC Architectures](https://www.researchgate.net/publication/336034637_Thermal-Constrained_Energy-Aware_Load_Management_on_MPSoC_Architectures)
