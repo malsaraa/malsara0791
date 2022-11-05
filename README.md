@@ -40,6 +40,8 @@
 
 <h6>
   
+  * [UAS Safe Distance due to Magnetic Field of Extra High Voltage Transmission Lines During a Phase-to-Phase Short Circuit](https://www.researchgate.net/publication/365151627_UAS_Safe_Distance_due_to_Magnetic_Field_of_Extra_High_Voltage_Transmission_Lines_During_a_Phase-to-Phase_Short_Circuit) 
+  
 * [Re-configurable, expandable, and cost-effective heterogeneous FPGA cluster approach for resource-constrained data analysis](https://www.researchgate.net/publication/361348307_Re-configurable_expandable_and_cost-effective_heterogeneous_FPGA_cluster_approach_for_resource-constrained_data_analysis/stats)  
   
 * [Energy-Aware Task Migration Through Ant-Colony Optimization for Multiprocessors](https://www.researchgate.net/publication/356785168_Energy-Aware_Task_Migration_Through_Ant-Colony_Optimization_for_Multiprocessors)
