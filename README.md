@@ -16,7 +16,7 @@
 
 </h5>
 
-  <img align="right" alt="PNG" src="https://github.com/malsara0791/malsara0791/blob/main/assets/Website Hosting.png" width="500"/>
+  <img align="right" alt="PNG" src="https://github.com/malsara0791/malsara0791/blob/main/assets/Website Hosting.png" width="400"/>
        
 <h3><img src="https://github.com/malsara0791/malsara0791/blob/main/assets/012-laptop.png" width="50" /> Things I develop with</h3>
 
