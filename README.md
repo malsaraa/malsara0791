@@ -39,6 +39,11 @@
 <h3><img src="https://github.com/malsara0791/malsara0791/blob/main/assets/021-test.png" width="50" /> Publications </h3>
 
 <h6>
+
+  * [Examining Anticipated Massive MIMO 5G Network Attacks through Adversarial Examples](https://www.researchgate.net/publication/365151627_UAS_Safe_Distance_due_to_Magnetic_Field_of_Extra_High_Voltage_Transmission_Lines_During_a_Phase-to-Phase_Short_Circuit)
+
+  * [Suppressing Clutter and Jammer Interference in UAS Radar Sensors Using Space-Time Adaptive Processing](https://www.researchgate.net/publication/365151627_UAS_Safe_Distance_due_to_Magnetic_Field_of_Extra_High_Voltage_Transmission_Lines_During_a_Phase-to-Phase_Short_Circuit)
+
   
   * [UAS Safe Distance due to Magnetic Field of Extra High Voltage Transmission Lines During a Phase-to-Phase Short Circuit](https://www.researchgate.net/publication/365151627_UAS_Safe_Distance_due_to_Magnetic_Field_of_Extra_High_Voltage_Transmission_Lines_During_a_Phase-to-Phase_Short_Circuit) 
   
