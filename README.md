@@ -11,7 +11,7 @@
 </a>
 <br><br>
 <h5>
-  I'm Dulana, a Controls Engineer by day, an academic researcher by night! <br>Check out the repos for my research work related to MPSoCs and FPGAs. 
+  I'm Dulana, and I'm great at googling things!
 
 
 </h5>
